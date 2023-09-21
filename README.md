@@ -1,7 +1,7 @@
 # students-performance-
 our data is about students performance in many exams and compare between the scores of the students who take preparation course and who didn't take the course
 # I asked the next questions that its answer in the data 
-<h2>1-Are the scores of different subjects related ? Is a bad score in Math usually means the student's mars in reading and writing are bad?</h2>
+1-Are the scores of different subjects related ? Is a bad score in Math usually means the student's mars in reading and writing are bad?<br/>
 Ans: As we could see , reading and writing scores are highly correlated so bad score of writing may indicate bad score in reading. Although math isn't that highly correlated with others so it may differ for math scores a little</br>
 </br><h2>2-How effective is the test preparation course?</h2>
 Ans: It’s very effective because the students who took the course got higher test scores on all the tests unlike to those who didn’t took the course
